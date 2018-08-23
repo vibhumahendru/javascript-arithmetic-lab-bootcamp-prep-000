@@ -32,7 +32,9 @@ else if(n < 0.5){
 }
 }
 
-function preserveDecimal
+function preserveDecimal(n){
+  return parseFloat(n)
+}
 
 
 
